@@ -1,0 +1,9 @@
+[indexes/alvaro]
+owner = admin
+version = 8.2.3
+modtime = 1639044314.246840000
+
+[inputs/monitor%3A%2F%2F%2Fvar%2Flog%2Fvbox-setup.log.1]
+owner = admin
+version = 8.2.3
+modtime = 1639044790.472651000

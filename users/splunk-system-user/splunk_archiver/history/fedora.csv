@@ -1,0 +1,7 @@
+sid,search,"splunk_server","_time","is_realtime","event_count","exec_time","result_count","scan_count",status,"total_run_time","__mv_sid","__mv_search","__mv_splunk_server","__mv__time","__mv_is_realtime","__mv_event_count","__mv_exec_time","__mv_result_count","__mv_scan_count","__mv_status","__mv_total_run_time"
+"1639045021.73","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""",fedora,"1639045021.045760",0,0,1639045028,0,0,completed,"0.262",,,,,,,,,,,
+"1639048620.23","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""",fedora,"1639048620.778901",0,0,1639048620,0,0,canceled,"0.274",,,,,,,,,,,
+"1639052221.28","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""",fedora,"1639052221.392154",0,0,1639052221,0,0,canceled,"0.294",,,,,,,,,,,
+"1639055820.33","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""",fedora,"1639055820.449633",0,0,1639055820,0,0,canceled,"0.252",,,,,,,,,,,
+"1639059420.38","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""",fedora,"1639059420.637626",0,0,1639059420,0,0,canceled,"0.308",,,,,,,,,,,
+"1639063020.43","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""",fedora,"1639063020.772869",0,0,1639063020,0,0,canceled,"0.303",,,,,,,,,,,
