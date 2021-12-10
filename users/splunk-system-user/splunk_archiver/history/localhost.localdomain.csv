@@ -3,3 +3,7 @@ sid,search,"splunk_server","_time","is_realtime","event_count","exec_time","resu
 "1639127821.10","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639127821.067586",0,0,1639127821,0,0,canceled,"0.263",,,,,,,,,,,
 "1639131421.15","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639131421.261310",0,0,1639131421,0,0,canceled,"0.275",,,,,,,,,,,
 "1639135020.20","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639135020.585339",0,0,1639135020,0,0,canceled,"0.264",,,,,,,,,,,
+"1639138620.25","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639138620.946278",0,0,1639138620,0,0,canceled,"0.264",,,,,,,,,,,
+"1639142221.30","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639142221.151788",0,0,1639142221,0,0,canceled,"0.28700000000000003",,,,,,,,,,,
+"1639145821.35","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639145821.294202",0,0,1639145821,0,0,canceled,"0.279",,,,,,,,,,,
+"1639149420.3","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","localhost.localdomain","1639149420.811776",0,0,1639149420,0,0,canceled,"0.311",,,,,,,,,,,
